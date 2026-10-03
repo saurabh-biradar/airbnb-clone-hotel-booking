@@ -42,7 +42,7 @@ airbnb-clone/
 
 ## Data Model
 
-> Full ER diagram and schema notes live in [`docs/`](../docs).
+> Full ER diagram and schema notes live in [`docs/`](./docs).
 
 ```mermaid
 erDiagram
@@ -238,9 +238,8 @@ The API will be available at `http://localhost:8080`.
 
 ## Documentation
 
-- [`docs/Requirements_Notes.md`](../docs/Requirements_Notes.md) — functional requirements
-- [`docs/Schema_ER_Diagram_AirBnb.pdf`](../docs/Schema_ER_Diagram_AirBnb.pdf) — database schema & ER diagram
-- `docs/Requirements Gathering & API Design Notes.png` — full design board (flows, APIs, pricing)
+- [`docs/Requirements_Notes.md`](./docs/Requirements_Notes.md) — functional requirements
+- [`docs/Schema_ER_Diagram_AirBnb.pdf`](./docs/Schema_ER_Diagram_AirBnb.pdf) — database schema & ER diagram
 
 ---
 
