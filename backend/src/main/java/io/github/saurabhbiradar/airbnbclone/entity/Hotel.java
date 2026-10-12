@@ -26,6 +26,9 @@ public class Hotel {
     @Column(nullable = false)
     private String city;
 
+    @ManyToOne
+    private User owner;
+
     @Embedded
     private HotelContactInfo contactInfo;
 
